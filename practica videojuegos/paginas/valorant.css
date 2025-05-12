@@ -1,0 +1,23 @@
+body {
+    color: rgb(216, 216, 216);
+    background-size: cover;
+}
+h3 {background-color: rgba(119, 122, 125, 0.7);
+}
+h1{  text-align: center;
+    color: rgb(76, 48, 255);
+}
+a h2 {color:rgb(101, 203, 113)
+}
+img {
+    width: 7%;
+}
+.flechaimg {
+    width: 5%;
+}
+.juegoimg {
+    width: 20%;
+}
+.juego {
+  width: 20%;
+}

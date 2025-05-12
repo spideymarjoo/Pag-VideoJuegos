@@ -1,0 +1,35 @@
+body {
+  color: aliceblue;
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+}
+
+table {
+  border: 2px solid rgb(174, 187, 98);
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.logo { width: 30%;
+}
+td h2 {
+  color:rgb(255, 169, 57);
+}
+td {
+  border: 2px solid rgb(174, 187, 98);
+  text-align: center;
+}
+th {
+  background-color: rgba(109, 63, 123, 0.79);
+  text-align: center;
+}
+img {
+  width: 15%;
+}
+tr:hover {
+  background-color: rgba(166, 216, 154, 0.579);
+}
